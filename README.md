@@ -39,6 +39,9 @@ Note: a browser can be used as client by accessing http:localhost:8080/index.htm
 
 
 ![RNN](https://raw.githubusercontent.com/mmehedin/HTTP_Server_Client/master/Results/client_get_8.27.21.png)
+![RNN](https://raw.githubusercontent.com/mmehedin/HTTP_Server_Client/master/Results/server_GET_8.27.04.png)
+![RNN](https://raw.githubusercontent.com/mmehedin/HTTP_Server_Client/master/Results/client_put_8.28.31.png)
+![RNN](https://raw.githubusercontent.com/mmehedin/HTTP_Server_Client/master/Results/server_put_8.28.20.png)
 
 ------
 
