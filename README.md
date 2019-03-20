@@ -58,4 +58,4 @@ Reference: https://pubs.opengroup.org/onlinepubs/7908799/xns/syssocket.h.html
 
 -------------------
 
-[![Video Demo](Demo video)](https://raw.githubusercontent.com/mmehedin/derma_diagnosis/master/temp/gource.mp4)
+[Video demo](https://raw.githubusercontent.com/mmehedin/HTTP_Server_Client/master/temp/HTTP_Server_Client.mp4)
